@@ -21,6 +21,10 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/renzsiguenza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="renzsiguenza" height="30" width="40" /></a>
+<a href="https://facebook.com/renz.siguenza.03/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - renzsiguenza" height="30" width="40" />
+</a>
+
 </p>
 
 ---
