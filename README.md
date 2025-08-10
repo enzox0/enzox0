@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Renz+Roda" alt="Typing SVG" /></a>
 </p>
 
+
 <h3 align="center">Full Stack Developer | Delivering End-to-End Web Solutions with Precision and Performance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzox0&label=Profile%20views&color=0e75b6&style=flat" alt="enzox0" /> </p>
