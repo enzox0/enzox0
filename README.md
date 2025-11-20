@@ -40,34 +40,37 @@
 ---
 
 <h3 align="left">🛠 Technologies</h3>
-add n8n and ai workflow automation: <!-- ======================== -->
+<!-- ======================== -->
 <!-- ⭐ FRONTEND DEVELOPMENT ⭐ -->
 <!-- ======================== -->
 <h3>Frontend Development</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -82,17 +85,14 @@ add n8n and ai workflow automation: <!-- ======================== -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nginx.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -107,6 +107,31 @@ add n8n and ai workflow automation: <!-- ======================== -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ======================= -->
+<!-- ⭐ CLOUD / HOSTING ⭐ -->
+<!-- ======================= -->
+<h3>Cloud / Hosting</h3>
+<p align="left">
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" alt="Render"/>
+  </a>
+  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/hostinger/FF6C37" width="40" height="40" alt="Hostinger"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- =========================== -->
@@ -114,14 +139,11 @@ add n8n and ai workflow automation: <!-- ======================== -->
 <!-- =========================== -->
 <h3>Mobile Development</h3>
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -133,24 +155,77 @@ add n8n and ai workflow automation: <!-- ======================== -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/>
   </a>
 </p>
 
 <!-- ============================= -->
-<!-- ⭐ MACHINE LEARNING / AI ⭐ -->
+<!-- ⭐ GRAPHIC DESIGN ⭐ -->
 <!-- ============================= -->
-<h3>Machine Learning / AI</h3>
+<h3>Graphic Design</h3>
+<p align="left">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ============================= -->
+<!-- ⭐ VIDEO EDITING ⭐ -->
+<!-- ============================= -->
+<h3>Video Editing</h3>
+<p align="left">
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/adobe-after-effects.png" width="40" height="40"/>
+  </a>
+</p>
+
+
+<!-- ============================= -->
+<!-- ⭐ AI / MACHINE LEARNING ⭐ -->
+<!-- ============================= -->
+<h3>AI / Machine Learning</h3>
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  </a>
+   <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="OpenAI"/>
+  </a>
+</p>
+
+<!-- ==================================== -->
+<!-- ⭐ AUTOMATION / AI WORKFLOW AUTOMATION ⭐ -->
+<!-- ==================================== -->
+<h3>Automation / AI Workflow Automation</h3>
+<p align="left">
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ======================= -->
+<!-- ⭐ DEVOPS / CI-CD ⭐ -->
+<!-- ======================= -->
+<h3>DevOps / Tooling</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -165,30 +240,14 @@ add n8n and ai workflow automation: <!-- ======================== -->
 </p>
 
 <!-- ======================= -->
-<!-- ⭐ DEVOPS / CI-CD ⭐ -->
+<!-- ⭐ SEO / ANALYTICS ⭐ -->
 <!-- ======================= -->
-<h3>DevOps / CI/CD</h3>
+<h3>SEO / Analytics</h3>
 <p align="left">
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub Actions"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/continuous-integration.png" width="40" height="40" alt="CI/CD"/>
+  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googleanalytics/EA4335" width="40" height="40" alt="Google Analytics"/>
   </a>
 </p>
-
-<!-- ==================================== -->
-<!-- ⭐ AUTOMATION / AI WORKFLOW AUTOMATION ⭐ -->
-<!-- ==================================== -->
-<h3>Automation / AI Workflow Automation</h3>
-<p align="left">
-  <!-- n8n -->
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40" alt="n8n"/>
-  </a>
-</p>
-
-
 
 ---
 
