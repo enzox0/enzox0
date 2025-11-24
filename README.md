@@ -238,9 +238,6 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions"/>
-  </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
   </a>
