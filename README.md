@@ -1,4 +1,13 @@
 <p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/78379649-975c-4b84-9383-b4bf73a21ce2"
+    alt="me"
+    width="1000"
+    height="400"
+  />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Renz+Siguenza" alt="Typing SVG" /></a>
 </p>
 
