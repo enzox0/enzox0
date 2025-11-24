@@ -16,6 +16,7 @@
 - 🌐 **Portfolio Website:** https://renzsiguenza.space  
 - 💼 **LinkedIn:** https://linkedin.com/in/renz-siguenza-786596378/
 - 🐙 **GitHub:** https://github.com/enzox0
+- 📊 Kaggle: https://www.kaggle.com/renzsiguenza
 
 ---
 
