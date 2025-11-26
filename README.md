@@ -215,10 +215,17 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
   </a>
-   <a href="https://openai.com" target="_blank" rel="noreferrer">
+  <a href="https://openai.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="OpenAI"/>
   </a>
+  <a href="https://www.kaggle.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40" alt="Kaggle"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlecolab" width="40" height="40" alt="Google Colab"/>
+  </a>
 </p>
+
 
 <!-- ==================================== -->
 <!-- ⭐ AUTOMATION / AI WORKFLOW AUTOMATION ⭐ -->
