@@ -82,7 +82,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>
+  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+    <img src="[https://cdn.jsdelivr.net/gh/pmndrs/zustand/docs/logo.svg](https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg)" width="40" height="40"/>
+  </a>
 </p>
+
 
 <!-- ======================== -->
 <!-- ⭐ BACKEND DEVELOPMENT ⭐ -->
