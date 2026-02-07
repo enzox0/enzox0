@@ -171,6 +171,16 @@
   </a>
 </p>
 
+<!-- =========================== -->
+<!-- ⭐ DESKTOP DEVELOPMENT ⭐ -->
+<!-- =========================== -->
+<h3>Desktop Development</h3>
+<p align="left">
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
 <!-- ==================== -->
 <!-- ⭐ UI/UX & DESIGN ⭐ -->
 <!-- ==================== -->
