@@ -1,306 +1,191 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/78379649-975c-4b84-9383-b4bf73a21ce2"
-    alt="me"
-    width="1000"
-    height="400"
-  />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Renz+Siguenza" alt="Typing SVG" /></a>
-</p>
-
-
-<h3 align="center">Full Stack Developer | Delivering End-to-End Web Solutions with Precision and Performance</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzox0&label=Profile%20views&color=0e75b6&style=flat" alt="enzox0" /> </p>
-
-## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=enzox0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 📌 Portfolio & Links
-- 🌐 **Portfolio Website:** https://renzsiguenza.space  
-- 💼 **LinkedIn:** https://linkedin.com/in/renz-siguenza-786596378/
-- 🐙 **GitHub:** https://github.com/enzox0
-- 📊 Kaggle: https://www.kaggle.com/renzsiguenza
-
----
-
-### 👋 About Me
-- 🌱 I’m currently learning **AI**
-- 💬 Ask me about **MERN Stack, Flutter projects, Deep Learning**
-- 📫 Reach me at **renzsiguenza0000@gmail.com**
-- ⚡ Fun fact: **until we meet again**
-
----
-
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/renzsiguenza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="renzsiguenza" height="30" width="40" /></a>
-<a href="https://facebook.com/renz.siguenza.03/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - renzsiguenza" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-<h3 align="left">🛠 Technologies</h3>
-<!-- ======================== -->
-<!-- ⭐ FRONTEND DEVELOPMENT ⭐ -->
-<!-- ======================== -->
-<h3>Frontend Development</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" />
-  </a>
-</p>
-
-
-<!-- ======================== -->
-<!-- ⭐ BACKEND DEVELOPMENT ⭐ -->
-<!-- ======================== -->
-<h3>Backend Development</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ==================================== -->
-<!-- ⭐ WEB SERVER / REVERSE PROXY TOOLS ⭐ -->
-<!-- ==================================== -->
-<h3>Web Server / Reverse Proxy Tools</h3>
-<p>
-  <a href="https://nginx.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx">
-  </a>
-</p>
-
-<!-- =============== -->
-<!-- ⭐ DATABASES ⭐ -->
-<!-- =============== -->
-<h3>Databases</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ======================= -->
-<!-- ⭐ CLOUD / HOSTING ⭐ -->
-<!-- ======================= -->
-<h3>Cloud / Hosting</h3>
-<p align="left">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" alt="Render"/>
-  </a>
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/hostinger/FF6C37" width="40" height="40" alt="Hostinger"/>
-  </a>
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- =========================== -->
-<!-- ⭐ MOBILE DEVELOPMENT ⭐ -->
-<!-- =========================== -->
-<h3>Mobile Development</h3>
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- =========================== -->
-<!-- ⭐ DESKTOP DEVELOPMENT ⭐ -->
-<!-- =========================== -->
-<h3>Desktop Development</h3>
-<p align="left">
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ==================== -->
-<!-- ⭐ UI/UX & DESIGN ⭐ -->
-<!-- ==================== -->
-<h3>UI/UX & Design</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ============================= -->
-<!-- ⭐ GRAPHIC DESIGN ⭐ -->
-<!-- ============================= -->
-<h3>Graphic Design</h3>
-<p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ============================= -->
-<!-- ⭐ VIDEO EDITING ⭐ -->
-<!-- ============================= -->
-<h3>Video Editing</h3>
-<p align="left">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/adobe-after-effects.png" width="40" height="40"/>
-  </a>
-</p>
-
-
-<!-- ============================= -->
-<!-- ⭐ AI / MACHINE LEARNING ⭐ -->
-<!-- ============================= -->
-<h3>AI / Machine Learning</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="OpenAI"/>
-  </a>
-  <a href="https://www.kaggle.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40" alt="Kaggle"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/googlecolab" width="40" height="40" alt="Google Colab"/>
-  </a>
-</p>
-
-
-<!-- ==================================== -->
-<!-- ⭐ AUTOMATION / AI WORKFLOW AUTOMATION ⭐ -->
-<!-- ==================================== -->
-<h3>Automation / AI Workflow Automation</h3>
-<p align="left">
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ======================= -->
-<!-- ⭐ DEVOPS / CI-CD ⭐ -->
-<!-- ======================= -->
-<h3>DevOps / Tooling</h3>
-<p align="left">
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
-  </a>
-</p>
-
-
-<!-- ======================= -->
-<!-- ⭐ VERSION CONTROL ⭐ -->
-<!-- ======================= -->
-<h3>Version Control</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ======================= -->
-<!-- ⭐ SEO / ANALYTICS ⭐ -->
-<!-- ======================= -->
-<h3>SEO / Analytics</h3>
-<p align="left">
-  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/googleanalytics/EA4335" width="40" height="40" alt="Google Analytics"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=enzox0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=enzox0&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enzox0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github.com/user-attachments/assets/78379649-975c-4b84-9383-b4bf73a21ce2" alt="Renz Siguenza" width="100%" />
 
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Renz+Siguenza;Full+Stack+Developer;" alt="Typing SVG" />
+</h1>
 
+<h3 align="center">Full Stack Developer | Delivering End-to-End Web Solutions with Precision and Performance</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enzox0&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/enzox0?tab=followers">
+    <img src="https://img.shields.io/github/followers/enzox0?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
+  </a>
+</p>
+
+<br/>
+
+## About Me
+
+```typescript
+const renz = {
+  location: "Philippines",
+  currentFocus: "AI & Machine Learning",
+  funFact: "Until we meet again",
+  expertise: ["MERN Stack", "Flutter Development", "Deep Learning"],
+  contact: "renzsiguenza0000@gmail.com"
+};
+```
+
+<br/>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://renzsiguenza.space" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/renz-siguenza-786596378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/enzox0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/renzsiguenza" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://facebook.com/renz.siguenza.03" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<br/>
+
+## Tech Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+</details>
+
+<details open>
+<summary><b>Mobile & Desktop</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+</p>
+</details>
+
+<details open>
+<summary><b>Database & Cloud</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+</details>
+
+<details open>
+<summary><b>Design & Creative Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+</p>
+</details>
+
+<br/>
+
+## GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enzox0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enzox0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzox0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzox0&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enzox0&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+## Featured Projects
+
+Coming soon...
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <p>From <a href="https://github.com/enzox0">enzox0</a> | Building the future, one commit at a time</p>
+</div>
