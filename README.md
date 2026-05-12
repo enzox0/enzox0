@@ -5,11 +5,7 @@
 </div>
 
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=ffffff&lines=Hi,+I'm+Renz+Siguenza;Full+Stack+Developer;">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=000000&lines=Hi,+I'm+Renz+Siguenza;Full+Stack+Developer;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=000000&lines=Hi,+I'm+Renz+Siguenza;Full+Stack+Developer;" alt="Typing SVG">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=808080&lines=Hi,+I%27m+Renz+Siguenza;Full+Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Full Stack Developer | Delivering End-to-End Web Solutions with Precision and Performance</h3>
