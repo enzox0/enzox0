@@ -181,36 +181,32 @@ const renz = {
       <th>Project Name</th>
       <th>Description</th>
       <th>Technologies Used</th>
-      <th>Tools</th>
       <th>Live Demo</th>
       <th>Source Code</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Human Resource Management System</td>
+      <td>A full-stack HRMS covering the entire employee lifecycle — from job posting to applicant application and management, DTR and realtime messaging — with dedicated modules for Employees, HR, and Workforce operations.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer</td>
+      <td>N/A</td>
       <td>
         <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Customer Relationship Management System</td>
+      <td>A full-stack CRM solution covering the entire sales lifecycle — from lead generation to customer profiling, activity tracking, communication logs, and sales workflow automation — with dedicated modules for Sales, Marketing, and Customer Support operations.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer, OAuth 2.0</td>
+      <td>N/A</td>
       <td>
         <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Footage Management System</td>
+      <td>A full-stack AI-integrated Footage Management System built for command center operations — from live feed monitoring to footage capture, indexing, and retrieval, YOLOv11-powered real-time object and threat detection, VLM-driven scene understanding and intelligent incident analysis, and end-to-end command center workflow management — with dedicated modules for Surveillance, Incident Response, Operator Management, and Reporting.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Python, YOLOv11, VLM (Visual Language Model), OpenCV, WebRTC, FFmpeg, AWS S3, Nodemailer</td>
+      <td>N/A</td>
       <td>
         <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
       </td>
