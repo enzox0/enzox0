@@ -68,10 +68,10 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>ContribuTrack</td>
+      <td>ContribuTrack is a modern expense tracking and peer-to-peer payment platform designed to simplify shared expenses. We help groups manage finances fairly, track balances in real-time, and settle payments seamlessly.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.io</td>
+      <td>N/A</td>
       <td>
         <a href="">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
@@ -79,10 +79,10 @@ const renz = {
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Arceval</td>
+      <td>AI-powered CLI tool that analyzes codebases and generates scored Enterprise Readiness Reports across architecture, security, code quality, scalability, and more. Supports Claude, GPT, and Gemini.</td>
+      <td>Python, Typer, Rich, Pydantic, pydantic-settings, python-dotenv, Anthropic SDK, OpenAI SDK, Google GenAI SDK, Hatchling, uv, pytest, Ruff, mypy</td>
+      <td>N/A</td>
       <td>
         <a href="">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
@@ -90,10 +90,32 @@ const renz = {
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>ImgtoWebp</td>
+      <td>ImgtoWebp helps you convert common image formats (PNG/JPEG/etc.) to WebP for smaller files and faster loads. It supports Node and browser usage with an easy, TypeScript-friendly API, making it straightforward to convert single images or process batches with configurable quality settings.</td>
+      <td>TypeScript, sharp, tsup, Vitest, Node.js</td>
+      <td>N/A</td>
+      <td>
+        <a href="">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Yolo-service</td>
+      <td>Enterprise-grade YOLO11 inference microservice built with FastAPI. Features real-time object detection, Multi-Object Tracking (MOT), and GPU-accelerated performance for high-throughput surveillance pipelines.</td>
+      <td>Python, FastAPI, Uvicorn, YOLO11 (Ultralytics), ByteTrack, EasyOCR, PyTorch, OpenCV, NumPy, Pydantic, python-multipart, Docker, uv, NVIDIA CUDA</td>
+      <td>N/A</td>
+      <td>
+        <a href="">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Avatox</td>
+      <td>Plug-and-play React avatar component with initials generation, custom styling, and image fallback support.</td>
+      <td>TypeScript, React, Tailwind CSS, tsup, Vitest, Cloudflare R2</td>
+      <td>N/A</td>
       <td>
         <a href="">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
