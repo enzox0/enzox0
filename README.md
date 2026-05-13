@@ -57,6 +57,7 @@ const renz = {
 
 ## Featured Projects
 
+### Public Projects
 <div align="center">
   <table width="100%">
     <tr>
@@ -71,7 +72,87 @@ const renz = {
       <td></td>
       <td></td>
       <td></td>
+      <td>
+        <a href="">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <a href="">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <a href="">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Private Projects
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Technologies Used</th>
+      <th>Live Demo</th>
+      <th>Source Code</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Non-Disclosure Projects
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Technologies Used</th>
+      <th>Tools</th>
+      <th>Live Demo</th>
+      <th>Source Code</th>
     </tr>
     <tr>
       <td></td>
@@ -79,6 +160,9 @@ const renz = {
       <td></td>
       <td></td>
       <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
+      </td>
     </tr>
     <tr>
       <td></td>
@@ -86,6 +170,19 @@ const renz = {
       <td></td>
       <td></td>
       <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
+      </td>
     </tr>
   </table>
 </div>
