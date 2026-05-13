@@ -315,7 +315,25 @@ const renz = {
 
 ## Organization
 
-Work in progress - Coming soon!
+We are committed to building impactful digital solutions through specialized organizations that bridge the gap between complex technology and user-centric design.
+
+### **LaCasitaPH**
+
+**Your Centralized Rental Discovery Platform**
+
+LaCasitaPH serves as a centralized digital marketplace that connects property owners and renters within a single transparent platform. It is designed to help renters discover trusted listings faster through clear details and straightforward comparisons across various rental categories.
+
+* **Focus:** Consolidating apartments, boarding houses, house rentals, transient rooms, bedspaces, and dormitories.
+* **Mission:** To provide a verified and efficient discovery experience for the rental market.
+
+### **Lil' Studios**
+
+**Graphic Design & Brand Identity**
+
+Lil' Studios is a creative professional hub that operates under the mantra, "Your Ideas, Our Expertise". The studio focuses on transforming concepts into high-quality visual assets through a blend of technical skill and artistic vision.
+
+* **Focus:** Branding, Graphic Design, and Digital Arts.
+* **Mission:** To deliver professional design solutions that bring client ideas to life with expert execution.
 
 <br/>
 
