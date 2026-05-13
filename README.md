@@ -136,28 +136,37 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lacasitaph</td>
+      <td>LaCasita is a rental discovery and property management platform I contributed to, built to bridge the gap between property owners and renters. It supports multiple accommodation types — apartments, boarding houses, dormitories, transient rooms, and more — through one unified digital marketplace.</td>
+      <td>React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, TanStack React Query, React Router, Zustand, Zod, React Hook Form, ShadCN UI, Radix UI, Framer Motion, AWS S3, Redis, BullMQ, Vitest, Playwright, ESLint, Prettier, Google Maps API, Photo Sphere Viewer</td>
+      <td>N/A</td>
       <td>
         <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Luvo</td>
+      <td>Luvo is a modern full-stack real-time messaging application that enables users to communicate through direct messages, group chats, and community rooms. Features include user authentication, friend management, message reactions, and call functionality, all built with real-time synchronization powered by Socket.io.</td>
+      <td>React, TypeScript, Vite, Tailwind CSS, Socket.io-client, React Router, Axios, Framer Motion, React Icons, date-fns, Node.js, Express, MongoDB, Mongoose, Socket.io, JSON Web Token (JWT), bcryptjs, CORS, dotenv, express-validator, PostCSS, Autoprefixer</td>
+      <td>N/D</td>
       <td>
         <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Argeia-AI-Powered-Chrome-Extension</td>
+      <td>Argeia – AI-Powered Chrome Extension helps users instantly understand any webpage by summarizing its content with a single click. It also includes an integrated AI Q&A chatbot that allows users to ask questions about the page content, extract key insights, and navigate complex information effortlessly — all without leaving their current tab.</td>
+      <td>JavaScript, HTML, CSS, Chrome Extension API (Manifest V3), Anthropic Claude API, React, Webpack, REST API, Natural Language Processing (NLP), Content Scripts, Service Workers</td>
+      <td>N/A</td>
+      <td>
+        <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+      </td>
+    </tr>
+    <tr>
+      <td>CacaoSnap</td>
+      <td>CacaoSnap is a mobile app that identifies cacao varieties using smartphone images and Deep Learning. It helps farmers and agricultural professionals quickly diagnose cacao plant conditions, classify varieties with high accuracy, and make informed decisions — all in real time, directly from their mobile device.</td>
+      <td>Flutter (Dart), PHP (Backend), MySQL, Deep Learning, Convolutional Neural Network (CNN), TensorFlow / Keras, REST API, Image Recognition, Mobile Camera Integration</td>
+      <td>N/A</td>
       <td>
         <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
       </td>
