@@ -84,7 +84,7 @@ const renz = {
       <td>Python, Typer, Rich, Pydantic, pydantic-settings, python-dotenv, Anthropic SDK, OpenAI SDK, Google GenAI SDK, Hatchling, uv, pytest, Ruff, mypy</td>
       <td>N/A</td>
       <td>
-        <a href="">
+        <a href="https://github.com/enzox0/arceval">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
         </a>
       </td>
@@ -95,7 +95,7 @@ const renz = {
       <td>TypeScript, sharp, tsup, Vitest, Node.js</td>
       <td>N/A</td>
       <td>
-        <a href="">
+        <a href="https://github.com/enzox0/imgtowebp">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
         </a>
       </td>
@@ -106,7 +106,7 @@ const renz = {
       <td>Python, FastAPI, Uvicorn, YOLO11 (Ultralytics), ByteTrack, EasyOCR, PyTorch, OpenCV, NumPy, Pydantic, python-multipart, Docker, uv, NVIDIA CUDA</td>
       <td>N/A</td>
       <td>
-        <a href="">
+        <a href="https://github.com/enzox0/yolo-service">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
         </a>
       </td>
@@ -117,7 +117,7 @@ const renz = {
       <td>TypeScript, React, Tailwind CSS, tsup, Vitest, Cloudflare R2</td>
       <td>N/A</td>
       <td>
-        <a href="">
+        <a href="https://github.com/enzox0/avatox">
           <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
         </a>
       </td>
