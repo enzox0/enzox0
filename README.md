@@ -68,6 +68,17 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
+      <td>PyQualify</td>
+      <td>AI-powered QA & security analysis CLI for any stack — scans web apps, source code, and APIs for vulnerabilities, quality issues, and performance problems. Powered by GPT, Claude, or Gemini.</td>
+      <td>Python, click, httpx, beautifulsoup4, lxml, openai, jinja2, reportlab, uv, pytest, pytest-cov, OpenAI, Anthropic, Google Gemini, Groq</td>
+      <td>N/A</td>
+      <td>
+        <a href="[https://github.com/enzox0/Project-Under-Development](https://github.com/enzox0/pyqualify)">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>ContribuTrack</td>
       <td>ContribuTrack is a modern expense tracking and peer-to-peer payment platform designed to simplify shared expenses. We help groups manage finances fairly, track balances in real-time, and settle payments seamlessly.</td>
       <td>MongoDB, Express.js, React, Node.js, Socket.io</td>
