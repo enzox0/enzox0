@@ -115,7 +115,7 @@ const renz = {
               <img src="https://img.shields.io/badge/Node.js-grey?style=flat-square" />
               <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" />
             </span>
-            <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+            <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
               <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
             </a>
           </div>
@@ -134,7 +134,7 @@ const renz = {
               <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square" /> 
               <img src="https://img.shields.io/badge/+2_more-555?style=flat-square" /> 
             </span> 
-            <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+            <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
               <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
             </a>
           </div> 
@@ -243,7 +243,7 @@ const renz = {
       <td>React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, TanStack React Query, React Router, Zustand, Zod, React Hook Form, ShadCN UI, Radix UI, Framer Motion, AWS S3, Redis, BullMQ, Vitest, Playwright, ESLint, Prettier, Google Maps API, Photo Sphere Viewer</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
         </a>
       </td>
@@ -254,7 +254,7 @@ const renz = {
       <td>React, TypeScript, Vite, Tailwind CSS, Socket.io-client, React Router, Axios, Framer Motion, React Icons, date-fns, Node.js, Express, MongoDB, Mongoose, Socket.io, JSON Web Token (JWT), bcryptjs, CORS, dotenv, express-validator, PostCSS, Autoprefixer</td>
       <td>N/D</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
         </a>
       </td>
@@ -265,7 +265,7 @@ const renz = {
       <td>JavaScript, HTML, CSS, Chrome Extension API (Manifest V3), Anthropic Claude API, React, Webpack, REST API, Natural Language Processing (NLP), Content Scripts, Service Workers</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
         </a>
       </td>
@@ -276,7 +276,7 @@ const renz = {
       <td>Flutter (Dart), PHP (Backend), MySQL, Deep Learning, Convolutional Neural Network (CNN), TensorFlow / Keras, REST API, Image Recognition, Mobile Camera Integration</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
         </a>
       </td>
@@ -300,7 +300,7 @@ const renz = {
       <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
         </a>
       </td>
@@ -311,7 +311,7 @@ const renz = {
       <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer, OAuth 2.0</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
         </a>
       </td>
@@ -322,7 +322,7 @@ const renz = {
       <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Python, YOLOv11, VLM (Visual Language Model), OpenCV, WebRTC, FFmpeg, AWS S3, Nodemailer</td>
       <td>N/A</td>
       <td>
-        <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
         </a>
       </td>
