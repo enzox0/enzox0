@@ -55,6 +55,97 @@ const renz = {
 
 <br/>
 
+## Project Highlights
+
+> A curated selection of my most impactful work across all categories.
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>BetterLibmanan</h3>
+        <p><b>Public &nbsp;·&nbsp; Enterprise Government System &nbsp;·&nbsp; Full-stack</b></p>
+        <p>[IN PROGRESS] Modern, multilingual enterprise monolith for Libmanan local government with citizen services, analytics, and secure administration workflows.</p>
+        <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
+          <div>
+            <span> 
+              <img src="https://img.shields.io/badge/React-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/TypeScript-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/Express.js-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/Turbo-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/+4_more-555?style=flat-square" /> 
+            </span>
+            <a href="https://github.com/enzox0/betterlibmanan">
+              <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github&style=flat-square" />
+            </a>
+          </div>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>PyQualify</h3>
+        <p><b>Public &nbsp;·&nbsp; Platform-as-a-Service</b></p>
+        <p>Multi-LLM QA & security analysis CLI — scans web apps, source code, and APIs for vulnerabilities and performance issues. Powered by Claude, GPT, or Gemini.</p>
+        <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
+          <div>
+            <span>
+              <img src="https://img.shields.io/badge/Python-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Claude-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/GPT-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Gemini-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/+12_more-555?style=flat-square" /> 
+            </span>
+            <a href="https://github.com/enzox0/pyqualify">
+              <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github&style=flat-square" />
+            </a>
+          </div>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>PaaS (Platform-as-a-Service)</h3>
+        <p><b>Private &nbsp;·&nbsp; DevOps & CI/CD</b></p>
+        <p>Contributed to a lightweight deployment control plane for bare‑metal/VPS servers. Implemented GitHub webhook automation, branch‑based environment mapping, zero‑downtime deployments via SSH/PM2/Nginx, and a centralized dashboard.</p>
+        <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
+          <div>
+            <span>
+              <img src="https://img.shields.io/badge/TypeScript-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Next.js-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Prisma-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Node.js-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" />
+            </span>
+            <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+              <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+            </a>
+          </div>
+        </p>
+      </td>
+      <td width="50%" valign="top"> 
+        <h3>IaaS (Infrastructure-as-a-Service)</h3> 
+        <p><b>Private &nbsp;·&nbsp; DevOps & Infrastructure Management</b></p> 
+        <p>Contributed to a secure, self-hosted Linux server operations platform providing centralized management for servers, Nginx reverse proxies, PM2/Docker services, UFW firewalls, Cloudflare DNS, and encrypted backups via web/desktop interface.</p> 
+        <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;"> 
+          <div> 
+            <span> 
+              <img src="https://img.shields.io/badge/TypeScript-grey?style=flat-squar" /> 
+              <img src="https://img.shields.io/badge/Next.js-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/React-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square" /> 
+              <img src="https://img.shields.io/badge/+2_more-555?style=flat-square" /> 
+            </span> 
+            <a href="[https://github.com/enzox0/imgtowebp](https://github.com/enzox0/Private-and-Non-Disclosure-Projects)">
+              <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+            </a>
+          </div> 
+        </p> 
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ## Featured Projects
 
 ### Public Projects
