@@ -39,23 +39,26 @@ const renz = {
 
 > Let's build something worth talking about — find me wherever great work gets done.
 
-<p align="center">
-  <a href="https://renzsiguenza.space" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<div align="center" style="padding-top: 12px;">
+  <a href="https://renzsiguenza.space" target="_blank" style="text-decoration: none; margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="28" />
   </a>
-  <a href="https://linkedin.com/in/renz-siguenza-786596378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/renz-siguenza-786596378" target="_blank" style="text-decoration: none; margin-right: 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-  <a href="https://github.com/enzox0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/enzox0" target="_blank" style="text-decoration: none; margin-right: 6px;">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" />
   </a>
-  <a href="https://www.kaggle.com/renzsiguenza" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.kaggle.com/renzsiguenza" target="_blank" style="text-decoration: none; margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28" />
   </a>
-  <a href="https://facebook.com/renz.siguenza.03" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://facebook.com/renz.siguenza.03" target="_blank" style="text-decoration: none; margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" />
   </a>
-</p>
+  <a href="mailto:renzsiguenza0000@email.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
+  </a>
+</div>
 
 <br/>
 
