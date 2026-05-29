@@ -21,6 +21,8 @@
 
 ## About Me
 
+> Developer by craft, problem-solver by nature — based in the Philippines and focused on what's next.
+
 ```text
 const renz = {
   location: "Philippines",
@@ -34,6 +36,8 @@ const renz = {
 <br/>
 
 ## Connect With Me
+
+> Let's build something worth talking about — find me wherever great work gets done.
 
 <p align="center">
   <a href="https://renzsiguenza.space" target="_blank">
@@ -65,7 +69,7 @@ const renz = {
       <td width="50%" valign="top">
         <h3>BetterLibmanan</h3>
         <p><b>Public &nbsp;·&nbsp; Enterprise Government System &nbsp;·&nbsp; Full-stack</b></p>
-        <p>[IN PROGRESS] Modern, multilingual enterprise monolith for Libmanan local government with citizen services, analytics, and secure administration workflows.</p>
+        <p>[IN PROGRESS] Architecting a multilingual enterprise monolith for a local government unit — delivering citizen-facing services, real-time analytics dashboards, and secure administrative workflows that modernize public service delivery at scale.</p>
         <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
           <div>
             <span> 
@@ -84,7 +88,7 @@ const renz = {
       <td width="50%" valign="top">
         <h3>PyQualify</h3>
         <p><b>Public &nbsp;·&nbsp; Platform-as-a-Service</b></p>
-        <p>Multi-LLM QA & security analysis CLI — scans web apps, source code, and APIs for vulnerabilities and performance issues. Powered by Claude, GPT, or Gemini.</p>
+        <p>Built a multi-LLM security and QA analysis CLI that gives developers AI-powered vulnerability scanning, performance profiling, and code quality audits — all from the terminal. Supports Claude, GPT, and Gemini, making enterprise-grade code analysis accessible to any stack.</p>
         <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
           <div>
             <span>
@@ -105,7 +109,7 @@ const renz = {
       <td width="50%" valign="top">
         <h3>PaaS (Platform-as-a-Service)</h3>
         <p><b>Private &nbsp;·&nbsp; DevOps & CI/CD</b></p>
-        <p>Contributed to a lightweight deployment control plane for bare‑metal/VPS servers. Implemented GitHub webhook automation, branch‑based environment mapping, zero‑downtime deployments via SSH/PM2/Nginx, and a centralized dashboard.</p>
+        <p>Contributed to a lightweight deployment control plane for bare-metal and VPS environments — engineering GitHub webhook automation, branch-based environment mapping, zero-downtime deployments via SSH/PM2/Nginx, and a centralized operations dashboard that brings CI/CD parity to self-hosted infrastructure.</p>
         <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
           <div>
             <span>
@@ -124,7 +128,7 @@ const renz = {
       <td width="50%" valign="top"> 
         <h3>IaaS (Infrastructure-as-a-Service)</h3> 
         <p><b>Private &nbsp;·&nbsp; DevOps & Infrastructure Management</b></p> 
-        <p>Contributed to a secure, self-hosted Linux server operations platform providing centralized management for servers, Nginx reverse proxies, PM2/Docker services, UFW firewalls, Cloudflare DNS, and encrypted backups via web/desktop interface.</p> 
+        <p>Contributed to a secure, self-hosted Linux operations platform that consolidates server management, Nginx reverse proxies, PM2/Docker services, UFW firewalls, Cloudflare DNS, and encrypted backups into a single web and desktop interface — eliminating the need for scattered CLI tools across distributed infrastructure.</p> 
         <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;"> 
           <div> 
             <span> 
@@ -148,7 +152,11 @@ const renz = {
 
 ## Featured Projects
 
+> Every project here solved a real problem, shipped real code, and left a real footprint.
+
 ### Public Projects
+
+> Open-source and publicly available — built to contribute, share, and raise the bar.
 <div align="center">
   <table width="100%">
     <tr>
@@ -159,30 +167,8 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
-      <td>PyQualify</td>
-      <td>AI-powered QA & security analysis CLI for any stack — scans web apps, source code, and APIs for vulnerabilities, quality issues, and performance problems. Powered by GPT, Claude, or Gemini.</td>
-      <td>Python, click, httpx, beautifulsoup4, lxml, openai, jinja2, reportlab, uv, pytest, pytest-cov, OpenAI, Anthropic, Google Gemini, Groq</td>
-      <td>N/A</td>
-      <td>
-        <a href="[https://github.com/enzox0/Project-Under-Development](https://github.com/enzox0/pyqualify)">
-          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>ContribuTrack</td>
-      <td>ContribuTrack is a modern expense tracking and peer-to-peer payment platform designed to simplify shared expenses. We help groups manage finances fairly, track balances in real-time, and settle payments seamlessly.</td>
-      <td>MongoDB, Express.js, React, Node.js, Socket.io</td>
-      <td>N/A</td>
-      <td>
-        <a href="https://github.com/enzox0/Project-Under-Development">
-          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>Arceval</td>
-      <td>AI-powered CLI tool that analyzes codebases and generates scored Enterprise Readiness Reports across architecture, security, code quality, scalability, and more. Supports Claude, GPT, and Gemini.</td>
+      <td>Engineered an AI-powered CLI that performs deep codebase analysis and generates scored Enterprise Readiness Reports — evaluating architecture, security posture, code quality, and scalability in one command. Supports Claude, GPT, and Gemini, giving engineering teams an objective benchmark before production deployment.</td>
       <td>Python, Typer, Rich, Pydantic, pydantic-settings, python-dotenv, Anthropic SDK, OpenAI SDK, Google GenAI SDK, Hatchling, uv, pytest, Ruff, mypy</td>
       <td>N/A</td>
       <td>
@@ -192,8 +178,30 @@ const renz = {
       </td>
     </tr>
     <tr>
+      <td>Avatox</td>
+      <td>Published a lightweight, plug-and-play React avatar component to npm — featuring automatic initials generation, fully customizable styling, and graceful image fallback support. Designed with a TypeScript-first API so teams can drop it into any project without configuration overhead.</td>
+      <td>TypeScript, React, Tailwind CSS, tsup, Vitest, Cloudflare R2</td>
+      <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/avatox">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>ContribuTrack</td>
+      <td>Built a real-time shared expense and peer-to-peer payment platform that eliminates the friction of splitting group costs — featuring live balance tracking, transparent contribution histories, and seamless settlement flows powered by Socket.io for instant synchronization across all participants.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.io</td>
+      <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/Project-Under-Development">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>ImgtoWebp</td>
-      <td>ImgtoWebp helps you convert common image formats (PNG/JPEG/etc.) to WebP for smaller files and faster loads. It supports Node and browser usage with an easy, TypeScript-friendly API, making it straightforward to convert single images or process batches with configurable quality settings.</td>
+      <td>Shipped a dual-environment (Node.js + browser) image conversion library with a clean, TypeScript-friendly API — enabling developers to convert PNG, JPEG, and other formats to WebP with configurable quality settings, reducing asset sizes and improving page load performance with minimal integration effort.</td>
       <td>TypeScript, sharp, tsup, Vitest, Node.js</td>
       <td>N/A</td>
       <td>
@@ -203,8 +211,19 @@ const renz = {
       </td>
     </tr>
     <tr>
+      <td>PyQualify</td>
+      <td>Built a multi-LLM security and QA analysis CLI that gives developers AI-powered vulnerability scanning, performance profiling, and code quality audits — all from the terminal. Engineered to support Claude, GPT, and Gemini interchangeably, making enterprise-grade code analysis accessible to any team, on any stack.</td>
+      <td>Python, click, httpx, beautifulsoup4, lxml, openai, jinja2, reportlab, uv, pytest, pytest-cov, OpenAI, Anthropic, Google Gemini, Groq</td>
+      <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/pyqualify">
+          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>Yolo-service</td>
-      <td>Enterprise-grade YOLO11 inference microservice built with FastAPI. Features real-time object detection, Multi-Object Tracking (MOT), and GPU-accelerated performance for high-throughput surveillance pipelines.</td>
+      <td>Designed and deployed an enterprise-grade YOLO11 inference microservice capable of powering high-throughput surveillance pipelines — delivering real-time object detection, Multi-Object Tracking (MOT), and GPU-accelerated inference via a production-ready FastAPI interface containerized with Docker for seamless deployment at scale.</td>
       <td>Python, FastAPI, Uvicorn, YOLO11 (Ultralytics), ByteTrack, EasyOCR, PyTorch, OpenCV, NumPy, Pydantic, python-multipart, Docker, uv, NVIDIA CUDA</td>
       <td>N/A</td>
       <td>
@@ -213,21 +232,13 @@ const renz = {
         </a>
       </td>
     </tr>
-    <tr>
-      <td>Avatox</td>
-      <td>Plug-and-play React avatar component with initials generation, custom styling, and image fallback support.</td>
-      <td>TypeScript, React, Tailwind CSS, tsup, Vitest, Cloudflare R2</td>
-      <td>N/A</td>
-      <td>
-        <a href="https://github.com/enzox0/avatox">
-          <img src="https://img.shields.io/badge/GitHub-View-181717?logo=github" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 
 ### Private Projects
+
+> Proprietary work developed for real clients and ventures — source restricted, impact undeniable.
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -238,30 +249,8 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
-      <td>Lacasitaph</td>
-      <td>LaCasita is a rental discovery and property management platform I contributed to, built to bridge the gap between property owners and renters. It supports multiple accommodation types — apartments, boarding houses, dormitories, transient rooms, and more — through one unified digital marketplace.</td>
-      <td>React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, TanStack React Query, React Router, Zustand, Zod, React Hook Form, ShadCN UI, Radix UI, Framer Motion, AWS S3, Redis, BullMQ, Vitest, Playwright, ESLint, Prettier, Google Maps API, Photo Sphere Viewer</td>
-      <td>N/A</td>
-      <td>
-        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
-          <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Luvo</td>
-      <td>Luvo is a modern full-stack real-time messaging application that enables users to communicate through direct messages, group chats, and community rooms. Features include user authentication, friend management, message reactions, and call functionality, all built with real-time synchronization powered by Socket.io.</td>
-      <td>React, TypeScript, Vite, Tailwind CSS, Socket.io-client, React Router, Axios, Framer Motion, React Icons, date-fns, Node.js, Express, MongoDB, Mongoose, Socket.io, JSON Web Token (JWT), bcryptjs, CORS, dotenv, express-validator, PostCSS, Autoprefixer</td>
-      <td>N/D</td>
-      <td>
-        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
-          <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>Argeia-AI-Powered-Chrome-Extension</td>
-      <td>Argeia – AI-Powered Chrome Extension helps users instantly understand any webpage by summarizing its content with a single click. It also includes an integrated AI Q&A chatbot that allows users to ask questions about the page content, extract key insights, and navigate complex information effortlessly — all without leaving their current tab.</td>
+      <td>Developed an AI-powered Chrome extension that transforms how users consume web content — enabling one-click page summarization and an in-tab Claude-powered Q&A chatbot that lets users extract key insights and interrogate complex information without ever leaving their current tab.</td>
       <td>JavaScript, HTML, CSS, Chrome Extension API (Manifest V3), Anthropic Claude API, React, Webpack, REST API, Natural Language Processing (NLP), Content Scripts, Service Workers</td>
       <td>N/A</td>
       <td>
@@ -272,9 +261,31 @@ const renz = {
     </tr>
     <tr>
       <td>CacaoSnap</td>
-      <td>CacaoSnap is a mobile app that identifies cacao varieties using smartphone images and Deep Learning. It helps farmers and agricultural professionals quickly diagnose cacao plant conditions, classify varieties with high accuracy, and make informed decisions — all in real time, directly from their mobile device.</td>
+      <td>Trained and deployed a Deep Learning CNN model into a production mobile app that empowers farmers and agricultural professionals to instantly identify cacao varieties and diagnose plant conditions from a smartphone photo — bringing precision agriculture to the field, in real time, with no internet dependency.</td>
       <td>Flutter (Dart), PHP (Backend), MySQL, Deep Learning, Convolutional Neural Network (CNN), TensorFlow / Keras, REST API, Image Recognition, Mobile Camera Integration</td>
       <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
+          <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Lacasitaph</td>
+      <td>Contributed to a full-stack rental discovery and property management marketplace that unifies apartments, boarding houses, dormitories, transient rooms, and more under a single verified platform — streamlining the connection between property owners and renters through rich listing detail, real-time communication, and 360° photo sphere previews.</td>
+      <td>React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.IO, TanStack React Query, React Router, Zustand, Zod, React Hook Form, ShadCN UI, Radix UI, Framer Motion, AWS S3, Redis, BullMQ, Vitest, Playwright, ESLint, Prettier, Google Maps API, Photo Sphere Viewer</td>
+      <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
+          <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Luvo</td>
+      <td>Built a full-stack real-time messaging platform supporting direct messages, group chats, and community rooms — complete with JWT-secured authentication, friend management, message reactions, and call functionality, all synchronized live via Socket.io for a seamless, responsive communication experience.</td>
+      <td>React, TypeScript, Vite, Tailwind CSS, Socket.io-client, React Router, Axios, Framer Motion, React Icons, date-fns, Node.js, Express, MongoDB, Mongoose, Socket.io, JSON Web Token (JWT), bcryptjs, CORS, dotenv, express-validator, PostCSS, Autoprefixer</td>
+      <td>N/D</td>
       <td>
         <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
           <img src="https://img.shields.io/badge/Source-Private-red?logo=github" alt="Private"/>
@@ -285,6 +296,9 @@ const renz = {
 </div>
 
 ### Non-Disclosure Projects
+
+> Delivered under NDA for enterprise clients — complex systems, confidential details, measurable results.
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -295,19 +309,8 @@ const renz = {
       <th>Source Code</th>
     </tr>
     <tr>
-      <td>Human Resource Management System</td>
-      <td>A full-stack HRMS covering the entire employee lifecycle — from job posting to applicant application and management, DTR and realtime messaging — with dedicated modules for Employees, HR, and Workforce operations.</td>
-      <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer</td>
-      <td>N/A</td>
-      <td>
-        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
-          <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>Customer Relationship Management System</td>
-      <td>A full-stack CRM solution covering the entire sales lifecycle — from lead generation to customer profiling, activity tracking, communication logs, and sales workflow automation — with dedicated modules for Sales, Marketing, and Customer Support operations.</td>
+      <td>Delivered a full-stack CRM platform that digitizes the entire sales lifecycle — from lead capture and customer profiling to activity tracking, communication logs, and automated sales workflow management — with dedicated modules for Sales, Marketing, and Customer Support teams, accelerating pipeline visibility and reducing manual overhead.</td>
       <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer, OAuth 2.0</td>
       <td>N/A</td>
       <td>
@@ -318,8 +321,19 @@ const renz = {
     </tr>
     <tr>
       <td>Footage Management System</td>
-      <td>A full-stack AI-integrated Footage Management System built for command center operations — from live feed monitoring to footage capture, indexing, and retrieval, YOLOv11-powered real-time object and threat detection, VLM-driven scene understanding and intelligent incident analysis, and end-to-end command center workflow management — with dedicated modules for Surveillance, Incident Response, Operator Management, and Reporting.</td>
+      <td>Architected a full-stack, AI-integrated command center platform handling end-to-end surveillance operations — from live feed monitoring and footage indexing to YOLOv11-powered real-time threat detection and VLM-driven scene understanding — replacing manual review workflows with intelligent, automated incident analysis at scale.</td>
       <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Python, YOLOv11, VLM (Visual Language Model), OpenCV, WebRTC, FFmpeg, AWS S3, Nodemailer</td>
+      <td>N/A</td>
+      <td>
+        <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
+          <img src="https://img.shields.io/badge/Source-NDA-darkred?logo=github" alt="NDA"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Human Resource Management System</td>
+      <td>Engineered a full-stack HRMS that automates the complete employee lifecycle — from job posting and applicant tracking to onboarding, DTR management, and real-time team messaging — with role-scoped modules for Employees, HR, and Workforce operations that replace fragmented manual processes with a unified, auditable system.</td>
+      <td>MongoDB, Express.js, React, Node.js, Socket.IO, JWT, Mongoose, REST API, Tailwind CSS, Vite, Nodemailer</td>
       <td>N/A</td>
       <td>
         <a href="https://github.com/enzox0/Private-and-Non-Disclosure-Projects">
@@ -333,6 +347,8 @@ const renz = {
 <br/>
 
 ## Tech Stack
+
+> The tools I trust to ship production-grade work — from pixel to pipeline.
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -431,6 +447,8 @@ const renz = {
 
 ## Organization
 
+> Beyond individual projects — ventures built to create lasting impact at scale.
+
 We are committed to building impactful digital solutions through specialized organizations that bridge the gap between complex technology and user-centric design.
 
 ### **LaCasitaPH**
@@ -454,6 +472,8 @@ Lil' Studios is a creative professional hub that operates under the mantra, "You
 <br/>
 
 ## Support
+
+> If the work resonates, let's connect — great things start with a conversation.
 
 If you like my work and want to support me, feel free to reach out!
 
